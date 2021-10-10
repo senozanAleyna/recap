@@ -1,0 +1,25 @@
+<table  class="table">
+    <thead>
+        <tr>
+        <th>Car Id</th>
+        <th>Car Name</th>
+        <th>Car Description</th>
+        <th>Brand Name</th>
+        <th>Color Name</th>
+        <th>Daily Price</th>
+
+    </tr>
+    </thead>
+    <tr *ngFor="let car of cars">
+        <td>{{car.id}}</td>
+        <td>{{car.carName}}</td>
+        <td>{{car.description}}</td>
+        <td>{{car.brandName}}</td>
+        <td>{{car.colorName}}</td>
+        <td>{{car.dailyPrice}}</td>
+        <td><button
+            (click)="carDetailsRoute(car.id)"
+            >detay</button></td>
+    </tr>
+  </table>
+  
