@@ -1,6 +1,15 @@
 # Recap
+This project is the front-end side of ReCapProject in my repositories. You can find the back-end project here,
+
+:point_right:  [ReCapProject](https://github.com/senozanAleyna/ReCapProject)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.5.
+
+
+## Sample Image
+![2](https://user-images.githubusercontent.com/91387768/136710493-a34eda40-9ae5-4ef5-a383-dda54f67983d.png)
+![3](https://user-images.githubusercontent.com/91387768/136710501-5ab29bf6-9eaa-4fa5-8a45-d5fef60fc421.png)
+
 
 ## Development server
 
